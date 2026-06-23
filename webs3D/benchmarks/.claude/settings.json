@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e ' *)",
+      "Read(//Users/josuegonzalez/Library/Caches/**)",
+      "Read(//Users/josuegonzalez/.npm/**)",
+      "Bash(ls -lh /tmp/arena-*.png)",
+      "Read(//private/tmp/**)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
